@@ -1,0 +1,14 @@
+
+*.bak
+*.tmp
+*~
+
+=======
+# Ignore OSX specific files
+*.DS_Store
+._*
+
+# Ignore emacs specific files
+.\#*
+\#*#
+
